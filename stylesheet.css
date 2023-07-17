@@ -1,0 +1,17 @@
+
+
+body{
+	background: deepskyblue;
+}
+
+#wiki{
+	 position: absolute;
+	text-align: left;
+	top:175;
+
+}
+
+.image{
+	position: fixed;
+	top:250;
+}
